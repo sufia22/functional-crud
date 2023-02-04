@@ -1,0 +1,19 @@
+.single-page {
+  width: 500px;
+
+  .single-photo {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+  }
+
+  .stu {
+    height: 100%;
+
+    .stu-info {
+      line-height: 0.7;
+      display: inline-block;
+      vertical-align: middle;
+    }
+  }
+}
